@@ -2,10 +2,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=tuichenchuxin)
 <!--START_SECTION:waka-->
 ```text
-Java         15 hrs 7 mins   ███████████████░░░░░░░░░░   60.34 % 
-Markdown     2 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-YAML         2 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Other        2 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Properties   57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Java       18 hrs 17 mins  ████████████████▓░░░░░░░░   67.15 % 
+YAML       2 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Other      2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Markdown   1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Rust       1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 ```
 <!--END_SECTION:waka-->
